@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "67c78351f98e6431487bba17"
+  },
+  "CountryName": "Brazil",
+  "No_of_World_Cups_Won": 5
+},
+{
+  "_id": {
+    "$oid": "67c78351f98e6431487bba20"
+  },
+  "CountryName": "Germany",
+  "No_of_World_Cups_Won": 4
+},
+{
+  "_id": {
+    "$oid": "67c78351f98e6431487bba25"
+  },
+  "CountryName": "Italy",
+  "No_of_World_Cups_Won": 4
+},
+{
+  "_id": {
+    "$oid": "67c78351f98e6431487bba13"
+  },
+  "CountryName": "Argentina",
+  "No_of_World_Cups_Won": 2
+},
+{
+  "_id": {
+    "$oid": "67c78351f98e6431487bba30"
+  },
+  "CountryName": "Uruguay",
+  "No_of_World_Cups_Won": 2
+},
+{
+  "_id": {
+    "$oid": "67c78351f98e6431487bba1e"
+  },
+  "CountryName": "England",
+  "No_of_World_Cups_Won": 1
+},
+{
+  "_id": {
+    "$oid": "67c78351f98e6431487bba1f"
+  },
+  "CountryName": "France",
+  "No_of_World_Cups_Won": 1
+},
+{
+  "_id": {
+    "$oid": "67c78351f98e6431487bba2e"
+  },
+  "CountryName": "Spain",
+  "No_of_World_Cups_Won": 1
+}]

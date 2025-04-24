@@ -1,0 +1,84 @@
+[{
+  "_id": {
+    "$oid": "67c78351f98e6431487bba32"
+  },
+  "Stadium": "Arena de Sao Paulo",
+  "NumberOfMatches": 6
+},
+{
+  "_id": {
+    "$oid": "67c78351f98e6431487bba33"
+  },
+  "Stadium": "Estadio das Dunas",
+  "NumberOfMatches": 4
+},
+{
+  "_id": {
+    "$oid": "67c78351f98e6431487bba34"
+  },
+  "Stadium": "Arena Fonte Nova",
+  "NumberOfMatches": 6
+},
+{
+  "_id": {
+    "$oid": "67c78351f98e6431487bba35"
+  },
+  "Stadium": "Arena Pantanal",
+  "NumberOfMatches": 4
+},
+{
+  "_id": {
+    "$oid": "67c78351f98e6431487bba36"
+  },
+  "Stadium": "Estadio Mineirao",
+  "NumberOfMatches": 6
+},
+{
+  "_id": {
+    "$oid": "67c78351f98e6431487bba37"
+  },
+  "Stadium": "Arena Pernamuco",
+  "NumberOfMatches": 5
+},
+{
+  "_id": {
+    "$oid": "67c78351f98e6431487bba38"
+  },
+  "Stadium": "Estadio Castelao",
+  "NumberOfMatches": 6
+},
+{
+  "_id": {
+    "$oid": "67c78351f98e6431487bba39"
+  },
+  "Stadium": "Arena Amazonia",
+  "NumberOfMatches": 4
+},
+{
+  "_id": {
+    "$oid": "67c78351f98e6431487bba3a"
+  },
+  "Stadium": "Estadio Nacional",
+  "NumberOfMatches": 7
+},
+{
+  "_id": {
+    "$oid": "67c78351f98e6431487bba3b"
+  },
+  "Stadium": "Estadio Beira-Rio",
+  "NumberOfMatches": 5
+},
+{
+  "_id": {
+    "$oid": "67c78351f98e6431487bba3c"
+  },
+  "Stadium": "Estadio do Maracana",
+  "NumberOfMatches": 7
+},
+{
+  "_id": {
+    "$oid": "67c78351f98e6431487bba3d"
+  },
+  "Stadium": "Arena Da Baixada",
+  "NumberOfMatches": 4
+}]
